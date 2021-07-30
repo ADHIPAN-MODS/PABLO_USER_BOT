@@ -1,6 +1,6 @@
 FROM fusuf/whatsasena:latest
 
-RUN git clone https://github.com/ADHIPAN-MODS/PABLO /root/WhatsAsenaPublic
+RUN git clone https://github.com/ADHIPAN-MODS/PABLO_USER_BOT /root/WhatsAsenaPublic
 WORKDIR /root/WhatsAsenaPublic/
 ENV TZ=Europe/Istanbul
 RUN npm install supervisor -g
