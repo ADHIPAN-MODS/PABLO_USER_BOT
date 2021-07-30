@@ -8,16 +8,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/TOXIC-DEVIL/WhatsAsenaPublic.git"
+    "url": "git+https://github.com/ADHIPAN-MODS/PABLO_USER_BOT.git"
   },
   "keywords": [
     "whatsapp"
   ],
   "author": "AsenaDev / Yusuf Usta",
-  "developer": "AsenaDev / @phaticusthiccy / TOXIC-DEVIL",
+  "developer": "AsenaDev / @phaticusthiccy /  ADHIPAN-MODS ",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/TOXIC-DEVIL/WhatsAsenaPublic/issues"
+    "url": "https://github.com/ADHIPAN-MODS/PABLO_USER_BOT/issues"
   },
   "homepage": "https://github.com/TOXIC-DEVIL/WhatsAsenaPublic#readme",
   "dependencies": {
