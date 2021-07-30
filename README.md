@@ -37,15 +37,16 @@ Thank you Everyone for helping to develop this one🦋
 **¤ To Set Up  Just [Click Here](https://www.youtube.com/channel/UCC_WKMTl43ewmNdwpNxj6tA)**
 
 ```
-WhatsAsena - Asena Userbot is Open Source software open to development. 
+
+ADHIPAN-MODS - PABLO_USER_BOT is Open Source software open to development. 
 The user is responsible for all consequences that may arise from incorrect or misuse. 
 Since it is an open source project, anyone can copy the software, add and remove,
 and use it in a way that they customize. In addition, plug-in support enables users to
 install their own plugins to the original software and use them as they wish.
 Using the bot out of purpose will explicitly ban you.
-Usage is entirely the user's responsibility, Asena Userbot is an 
+Usage is entirely the user's responsibility, PABLO_USER_BOT is an 
 infrastructure only. Just as the operating system is not responsible
-for the work done with the programs that are installed later, WhatsAsena 
+for the work done with the programs that are installed later, ADHIPAN-MODS 
 is not responsible for the usage purpose and method of the users.
 Marketing WhatsAsena for money, making it available or having any material value
 It is strictly forbidden to offer it for sale with anything. All legal investigations that may arise
@@ -70,12 +71,12 @@ the user is responsible.
 [![Run on Repl.it](https://repl.it/badge/github/TOXIC-DEVIL/WhatsAsenaPublic)](https://replit.com/@Phaticusthiccy/WhatsAsena-QR)
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ADHIPAN-MODS/PABLO)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ADHIPAN-MODS/PABLO_USER_BOT)
 
 ### The Hard Method
 ``` js
-$ git clone https://github.com/ADHIPAN-MODS/PABLO
-$ cd PABLO
+$ git clone https://github.com/ADHIPAN-MODS/PABLO_USER_BOT
+$ cd PABLO_USER_BOT
 $ npm i @adiwajshing/baileys
 $ npm i chalk
 $ node qr.js
@@ -87,13 +88,46 @@ $ node qr.js
 
 -------------
 
-This is a project made by  [ADHIPAN-MODS](https://www.youtube.com/channel/UCC_WKMTl43ewmNdwpNxj6tA) for his friend Pablo this repo is named after him. 
+This is a project made by  [ADHIPAN-MODS](https://www.youtube.com/channel/UCC_WKMTl43ewmNdwpNxj6tA) for his friend Pablo this repo is named after him.[SUBSCRIBE OUR CHANNEL FOR MORE UPDATES.](https://www.youtube.com/channel/UCC_WKMTl43ewmNdwpNxj6tA).
+
+
+##⚠️ Warning! 
+```
+Due to Userbot; Your WhatsApp account may be banned.
+This is an open source project, you are responsible for everything you do. 
+Absolutely, ADHIPAN-MODS do not accept responsibility.
+By establishing the Userbot, you are deemed to have accepted these responsibilities.
+```
+
+
+
+
+## 📢 Guide
+Click WA logo to Join Support Group 👇
+    <br>
+<br>
+  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/F0qVKotY0tq2pZ1tQ01PQb)
+  <div align="center">
+
+
+
+
+
+
+## CLICK HERE TO SUBSCRIBE OUR CHANNEL
+
+
+<div align="center">     
+ <a href="https://www.youtube.com/channel/UCC_WKMTl43ewmNdwpNxj6tA" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/youtube-logo-png-images-0.png" alt=" ADHIPAN-MODS " height="400" width="500" /></a>
+
+
+
 
 --------------------
 
 ## Developer & Contributors
 
-| [![ADHIPAN-MODS](https://avatars.githubusercontent.com/u/87354198?s=400&u=76e1a215b5abc335cdffe21bd8f39d45786ec6b4&v=4.png?size=100)](https://www.youtube.com/channel/UCC_WKMTl43ewmNdwpNxj6tA) |
+| [![ADHIPAN-MODS](https://avatars.githubusercontent.com/u/87354198?s=400&u=76e1a215b5abc335cdffe21bd8f39d45786ec6b4&v=4.)](https://www.youtube.com/channel/UCC_WKMTl43ewmNdwpNxj6tA) |
 |----|
 | [ADHIPAN-MODS](https://github.com/ADHIPAN-MODS) |
 | Developer, Base, Bug Fixes, Modules |
@@ -305,5 +339,49 @@ This is a project made by  [ADHIPAN-MODS](https://www.youtube.com/channel/UCC_WK
 | .nudityai | Shows the NSFW value of the photo between 1 and 0. |
 | .ganstyle | Combines pictures with the image link in Config Vars with the help of artificial intelligence.
 
+  
+  
+  
+  
+  
+  
+  
+## F.A.Q
+Answer a few frequently asked questions;
+### Can you read my messages?
+This project is open source so all the codes are clear. Neither less nor more; you can look what you want. **We absolutely do not have access to your accounts.**
+
+### What about our security?
+If you are concerned about security, you can install it on your own computer. If you think someone else has captured your data, simply click on **Whatsapp> Three Dots> Whatsapp Web> Logout** from all sessions button.
+
+### Is it paid?
+**Of course not.** It will never happen. But you can donate to us. You can reach us via [YOUTUBE](https://www.youtube.com/channel/UCC_WKMTl43ewmNdwpNxj6tA) .Or [WHATSAPP](https://chat.whatsapp.com/F0qVKotY0tq2pZ1tQ01PQb)
+
+### ⚠️ Warning! 
+```
+Due to Userbot; Your WhatsApp account may be banned.
+This is an open source project, you are responsible for everything you do. 
+Absolutely, ADHIPAN-MODS  executives do not accept responsibility.
+By establishing the PABLO_USER_BOT , you are deemed to have accepted these responsibilities.
+``` 
+
+  
+  
+## Thanks To
+[Black Hydra (D.C.W)](https://www.youtube.com/channel/UCt2wEGBQkjqCNhhRObiVVgA)
+[Pablo,
+Prime,
+Farhan,
+Arjun Vinod,
+Nithin,
+Ultron,
+And All Our Supporters](https://chat.whatsapp.com/F0qVKotY0tq2pZ1tQ01PQb)
 
 
+  ## License
+This project is protected by `GNU General Public Licence v3.0` license.
+
+  
+ Project created by <a href="https://github.com/ADHIPAN-MODS">ADHIPAN</a> to make it public
+
+| © | Reserved |
