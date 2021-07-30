@@ -1,34 +1,40 @@
+## IT'S_ME_ADHIPAN
+[![20210613_095153](https://avatars.githubusercontent.com/u/87354198?s=400&u=76e1a215b5abc335cdffe21bd8f39d45786ec6b4&v=4) ](https://www.youtube.com/channel/UCC_WKMTl43ewmNdwpNxj6tA)
+
+Thank you Everyone for helping to develop this one🦋
+
 ### Jump To
 
-**■ To Know What is WhatsAsenaPublic, Just [Click Here](https://github.com/TOXIC-DEVIL/WhatsAsenaPublic#What-Is-WhatsAsenaPublic)**
+**■ To Know What is PABLO USER BOT, Just [Click Here](https://www.youtube.com/channel/UCC_WKMTl43ewmNdwpNxj6tA)**
 
-**■ To Know Features of WhatsAsenaPublic, Just [Click Here](https://github.com/TOXIC-DEVIL/WhatsAsenaPublic#Features)**
+**■ To Know more  USER BOTS, Just [Click Here](https://www.youtube.com/channel/UCC_WKMTl43ewmNdwpNxj6tA)**
 
-**■ To Know WhatsNew Updated last in WhatsAsenaPublic, Just [Click Here](https://github.com/TOXIC-DEVIL/WhatsAsenaPublic#WhatsNew)**
+**■ To keep upated , Just [Click Here](https://www.youtube.com/channel/UCC_WKMTl43ewmNdwpNxj6tA)**
 
-**■ To Set Up WhatsAsenaPublic, Just [Click Here](https://github.com/TOXIC-DEVIL/WhatsAsenaPublic#How-To-Set-Up-WhatsAsenaPublic)**
+**■ To Set Up PABLO USER BOT, Just [Click Here](https://youtu.be/Mt1Szke-bzU)**
 
 ### Special Thanks To:
 
-**[@Phaticusthiccy](https://github.com/Phaticusthiccy)**
+**-[Black Hydra D.C.W](https://www.youtube.com/channel/UCt2wEGBQkjqCNhhRObiVVgA)**
 
-**[@TOXIC-DEVIL](https://github.com/TOXIC-DEVIL)**
 
-### What Is WhatsAsenaPublic
 
-**▪︎ The [Modified Version](https://github.com/TOXIC-DEVIL/WhatsAsenaPublic) Of [WhatsAsenaDuplicated](https://github.com/Phaticusthiccy/WhatsAsenaDuplicated)**
+
+### What Is PABLO USER BOT?
+
+**▪︎PABLO USER BOT is a WhatsApp helper bot MODDED by [ADHIPAN MODS](https://github.com/ADHIPAN-MODS) and MANAGED by [ADHIPAN MODS](https://github.com/ADHIPAN-MODS).It Does not log into your account.**
 
 **▪︎ You Have the All Rights To Re-Edit This Ropo**
 
-**▪︎ Modified By [TOXIC DEVIL](https://github.com/TOXIC-DEVIL)**
+**▪︎ Modified By [ADHIPAN-MODS](https://github.com/ADHIPAN-MODS)**
 
 **▪︎ Added More Commands**
 
-**▪︎ Helper & Developer [Phaticusthiccy](https://github.com/Phaticusthiccy)**
+**▪︎ MODDED & Developed By [ADHIPAN-MODS](https://github.com/ADHIPAN-MODS)**
 
-### How To Set Up WhatsAsenaPublic
+### How To Set Up PABLO USER BOT
 
-**¤ To Set Up WhatsAsenaPublic Just [Click Here](https://github.com/TOXIC-DEVIL/WhatsAsenaPublic#Simple-Method)**
+**¤ To Set Up  Just [Click Here](https://www.youtube.com/channel/UCC_WKMTl43ewmNdwpNxj6tA)**
 
 ```
 WhatsAsena - Asena Userbot is Open Source software open to development. 
@@ -47,13 +53,12 @@ the user is responsible.
 ```
 
 <div align = "center">
-  <img src = "https://i.ibb.co/9H56Ct5/20210305-083215.jpg" width = "200" height = "200">
-  <h1> 🐺 WhatsAsenaPublic </h1>
+  <img src = "https://avatars.githubusercontent.com/u/87354198?s=400&u=76e1a215b5abc335cdffe21bd8f39d45786ec6b4&v=4) " width = "200" height = "200">
+  <h1> 🐺 PABLO </h1>
 </div>
-<p align = "center">
-    WhatsAsenaPublic - Made By Toxic Devil.
-    <br>
 
+ PABLO USER BOT - MADE BY [ADHIPAN MODS](https://www.youtube.com/channel/UCC_WKMTl43ewmNdwpNxj6tA)
+    
 ### Show Your Support
 
 ⭐️ Give a **Star & Fork**, if this project helped you! ⭐️
@@ -65,12 +70,12 @@ the user is responsible.
 [![Run on Repl.it](https://repl.it/badge/github/TOXIC-DEVIL/WhatsAsenaPublic)](https://replit.com/@Phaticusthiccy/WhatsAsena-QR)
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ADHIPAN-MODS/pablo)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ADHIPAN-MODS/PABLO)
 
 ### The Hard Method
 ``` js
-$ git clone https://github.com/TOXIC-DEVIL/WhatsAsenaPublic.git
-$ cd WhatsAsenaPublic
+$ git clone https://github.com/ADHIPAN-MODS/PABLO
+$ cd PABLO
 $ npm i @adiwajshing/baileys
 $ npm i chalk
 $ node qr.js
@@ -82,20 +87,15 @@ $ node qr.js
 
 -------------
 
-**Dear Users,**
-**You Can **[Contribute](https://github.com/TOXIC-DEVIL/WhatsAsenaPublic/wiki/How-to-Contribute%3F)** To Us!! You can **[Contribute](https://github.com/TOXIC-DEVIL/WhatsAsenaPublic/wiki/How-to-Contribute%3F)** - Bug Fixes, Error Fixes, Commands, etc..**
-**Also Please Don't Share Invaild Codes/plugins to us, and we will give credits ( ON README ) to some selected users who contribute us!**
-**[Click here to see How to contribute](https://github.com/TOXIC-DEVIL/WhatsAsenaPublic/wiki/How-to-Contribute%3F)**
-
-      ~TOXIC-DEVIL
+This is a project made by  [ADHIPAN-MODS](https://www.youtube.com/channel/UCC_WKMTl43ewmNdwpNxj6tA) for his friend Pablo this repo is named after him. 
 
 --------------------
 
 ## Developer & Contributors
 
-| [![TOXIC DEVIL](https://github.com/TOXIC-DEVIL.png?size=100)](https://github.com/TOXIC-DEVIL) |
+| [![ADHIPAN-MODS](https://avatars.githubusercontent.com/u/87354198?s=400&u=76e1a215b5abc335cdffe21bd8f39d45786ec6b4&v=4.png?size=100)](https://www.youtube.com/channel/UCC_WKMTl43ewmNdwpNxj6tA) |
 |----|
-| [TOXIC-DEVIL](https://github.com/TOXIC-DEVIL) |
+| [ADHIPAN-MODS](https://github.com/ADHIPAN-MODS) |
 | Developer, Base, Bug Fixes, Modules |
 
 
