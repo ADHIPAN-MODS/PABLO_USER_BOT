@@ -61,7 +61,7 @@ if (Config.WORKTYPE == 'private') {
                 }
             );
             await message.client.sendMessage(
-                message.jid,'● *WhatsAsena Private By Toxic Devil* ●\n\n' + CMD_HELP, MessageType.text
+                message.jid,'● *PABLO_USER_BOT BY ADHIPAN-MODS* ●\n\n' + CMD_HELP, MessageType.text
             );    
         } else {
             var CMD_HELP = '';
