@@ -224,7 +224,7 @@
             "INVALID_HEROKU": "*❌ Your Heroku information is wrong!*",
             "UPDATED": "*✅ Successfully Updated!*",
             "UPDATED_LOCAL": "*✅ Successfully Updated!*",
-            "AFTER_UPDATE": "*💬 WhatsAsena Restarting Automatically!*"
+            "AFTER_UPDATE": "*💬 PABLO_USER_BOT Restarting Automatically!*"
         },
         "log": {
             "LOG": "Saves the message you reply to your private number.",
