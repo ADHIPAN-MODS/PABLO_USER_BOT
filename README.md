@@ -118,7 +118,7 @@ Click WA logo to Join Support Group 👇
 
 
 <div align="center">     
- <a href="https://www.youtube.com/channel/UCC_WKMTl43ewmNdwpNxj6tA" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/youtube-logo-png-images-0.png" alt=" ADHIPAN-MODS " height="400" width="500" /></a>
+ <a href="https://www.youtube.com/channel/UCC_WKMTl43ewmNdwpNxj6tA" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/youtube-logo-png-images-0.png" alt=" ADHIPAN-MODS " height="200" width="300" /></a>
 
 
 
