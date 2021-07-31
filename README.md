@@ -54,7 +54,7 @@ the user is responsible.
 ```
 
 <div align = "center">
-  <img src = "https://avatars.githubusercontent.com/u/87354198?s=400&u=76e1a215b5abc335cdffe21bd8f39d45786ec6b4&v=4) " width = "200" height = "200">
+  <img src = "https://camo.githubusercontent.com/3a078fffa5ffec6d833687718ea1b75931f08225f019a6653676b802975ea3bb/68747470733a2f2f692e70696e696d672e636f6d2f323336782f65312f66302f36352f65316630363536393438313066643231386464633265636631303731633437612e6a7067" width = "200" height = "200">
   <h1> 🐺 PABLO </h1>
 </div>
 
